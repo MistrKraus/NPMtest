@@ -14,7 +14,7 @@ module.exports = class HelloWorld {
     }
 };
 
-let helloW = require('./index');
-let hello = new helloW();
-helloW.f("MucQ :*");
-hello.callFunction();
+// let helloW = require('./index');
+// let hello = new helloW();
+// helloW.f("MucQ :*");
+// hello.callFunction();
