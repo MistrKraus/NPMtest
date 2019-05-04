@@ -1,0 +1,21 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "npm creating & installing test",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npmTest"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "first",
+    "helloWorld"
+  ],
+  "author": "Petr Kraus",
+  "license": "ISC"
+}
